@@ -1,0 +1,4 @@
+as adminstator npm install
+
+and without nodeman,
+
